@@ -1,0 +1,6 @@
+@api_ihadi_HostAddress = http://localhost:5160
+
+GET {{api_ihadi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
